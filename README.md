@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gimenez!</h1>
 <h3 align="center">A passionate fullStack developer from Spin</h3>
 
-- 🔭 I’m currently working on [Coin360](Coin360.com)
+- 🔭 I’m currently working on <a href="https://coin360.com" target="_blank" rel="noreferrer">[Coin360]</a>
 
 - 📫 How to reach me **sergiogimenezamat@gmail.com**
 
