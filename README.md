@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gimenez!</h1>
 <h3 align="center">A passionate fullStack developer from Spain</h3>
 
-- 🔭 I’m currently working on <a href="https://coin360.com" target="_blank" rel="noreferrer">Coin360</a>
+- 🔭 I’m currently working on <a href="https://autoguru.com.au" target="_blank" rel="noreferrer">AutoGuru</a>
 
 - 📫 How to reach me **sergiogimenezamat@gmail.com**
 
