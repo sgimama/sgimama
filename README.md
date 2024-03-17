@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on <a href="https://autoguru.com.au" target="_blank" rel="noreferrer">AutoGuru</a><br>📫 How to reach me **sergiogimenezamat@gmail.com**</p>
+<p align="left">✨ I’m currently working on <a href="https://autoguru.com.au" target="_blank" rel="noreferrer">AutoGuru</a><br>📫 How to reach me sergiogimenezamat@gmail.com</p>
 
 ###
 
